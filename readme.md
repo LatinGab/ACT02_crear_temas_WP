@@ -29,7 +29,7 @@ Cuando termines de actualizar la plantilla por el contenido pedido por Wolfgang,
 
 ## Luego de terminar
 
-Finalmente, haz un deploy de la página usando el plugin **Duplicator**. Luego crea un **README** con el link del deploy que hiciste, junto con la carpeta wp-content y la [base de datos en formato `.sql`](https://cl.godaddy.com/help/exportar-mis-bases-de-datos-mysql-1487). 
+Finalmente, haz un deploy del sitio usando el plugin **Duplicator**. Luego crea un **README** con el link del deploy que hiciste, junto con la carpeta wp-content y la [base de datos en formato `.sql`](https://cl.godaddy.com/help/exportar-mis-bases-de-datos-mysql-1487). 
 
 Todos los archivos mencionados anteriormente deberán ser **versionados vía push en GitHub**, y luego subidos a la [plataforma empieza](http://empieza.desafiolatam.com/)
 
