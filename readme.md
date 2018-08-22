@@ -12,7 +12,7 @@ Wolfgang, comenta que quiere usar una [plantilla estática que encontró por int
 
 Tú como sabes transformar un sitio estático a un tema de Wordpress aceptas el trabajo, pero le especificas a Wolfgang que debe entregarte todo el contenido del sitio para comenzar a trabajar. El jueves en la mañana llega un correo electrónico que [contiene todo el contenido](contenido_sitio) necesario para comenzar a trabajar.
 
-Teniendo en consideración todo lo mencionado anteriormente, deberás descargar la plantilla mencionada por Wolfgang ingresando al siguiente [enlace](https://www.free-css.com/assets/files/free-css-templates/download/page228/beryllium.zip). Luego que descargues este sitio deberás cambiar el contenido de la plantillla revisando el archivo enviado por el llamado [vidrotemp.md](contenido_sitio/vidrotemp.md).
+Teniendo en consideración todo lo mencionado anteriormente, deberás descargar la plantilla mencionada por Wolfgang ingresando al siguiente [enlace](https://www.free-css.com/free-css-templates/page228/beryllium). Luego que descargues este sitio deberás cambiar el contenido de la plantillla revisando el archivo enviado por el llamado [vidrotemp.md](contenido_sitio/vidrotemp.md).
 
 Asimismo, deberás seguir algunas instrucciones mencionadas en el correo el cliente:
 
